@@ -2,7 +2,7 @@
 
 **Authors:** *Surina Singh*
 
-## Description 
+## Description
 
 Write a command interpreter to manage your AirBnB objects.
 This is the first step towards building a first full web application: the AirBnB clone.This first step consists of a custom command-line interface for data management, and the base classes for the storage of this data. This first step built is important for all other following projects: HTML/CSS templating, database storage, API, front-end integration…
@@ -122,7 +122,7 @@ EOF  all  count  create  destroy  help  quit  show  update
 ```
 ---
 
-# Tasks 
+# Tasks
 
 ## Mandatory Tasks
 ### 0. README, AUTHORS
