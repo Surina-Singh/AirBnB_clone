@@ -1,6 +1,6 @@
 # AirBnB_clone
 
-**Authors:** *Surina Singh*
+**Authors:** *Surina Singh* && *Ayodeji Felix Oladoyin*
 
 ## Description
 
